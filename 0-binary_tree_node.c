@@ -1,5 +1,4 @@
 #incude "binary_trees.h"
-
 /**
  * binary_tree_node - a function that creates a binary tree
  * @parent: is a pointer to the parent
