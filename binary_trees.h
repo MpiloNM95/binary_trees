@@ -2,9 +2,11 @@
 #define BINARY_TREES_H
 
 /* Libraries */
+#include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include <limits.h>
 
 /* Data Structures */
 /**
