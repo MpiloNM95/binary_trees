@@ -15,7 +15,7 @@ int tree_is_perfect(const binary_tree_t *tree)
 	{
 		l = 1 + tree_is_perfect(tree->left);
 		r = 1 + tree_is_perfect(tree->right);
-		f (r == l && r != 0 && l != 0)
+		f(r == l && r != 0 && l != 0)
 			return (r);
 		return (0);
 	}
